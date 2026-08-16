@@ -20,10 +20,10 @@ Email Me 👉 ✉️ **amanp70289@gmail.com** For Collaboration/Project or Anyth
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-pal-704716367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-pal-704716367" height="30" width="40" /></a>
-<a href="https://kaggle.com/khaleekahmad696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khaleekahmad696" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/khaleek696" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khaleek696" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elahi1234e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elahi1234e" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khaleek696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khaleek696" height="30" width="40" /></a>
+<a href="https://kaggle.com/aman7028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aman7028" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amanmg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amanmg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aman70289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman70289" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amanmg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanmg" height="30" width="40" /></a>
 </p>
 
 
